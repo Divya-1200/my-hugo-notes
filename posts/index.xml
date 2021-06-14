@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Divya&#39;s Daily logs</title>
-    <link>https://example.com/posts/</link>
+    <link>https://divya-1200.github.io/my-hugo-notes/posts/</link>
     <description>Recent content in Posts on Divya&#39;s Daily logs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jun 2021 13:34:06 +0530</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jun 2021 13:34:06 +0530</lastBuildDate><atom:link href="https://divya-1200.github.io/my-hugo-notes/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://example.com/posts/daily-logs/</link>
+      <link>https://divya-1200.github.io/my-hugo-notes/posts/daily-logs/</link>
       <pubDate>Mon, 14 Jun 2021 13:34:06 +0530</pubDate>
       
-      <guid>https://example.com/posts/daily-logs/</guid>
+      <guid>https://divya-1200.github.io/my-hugo-notes/posts/daily-logs/</guid>
       <description>Daily-logs
 Hello this is day 1 of my intern in tactlabs</description>
     </item>

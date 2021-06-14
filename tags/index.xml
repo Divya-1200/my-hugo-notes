@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Divya&#39;s Daily logs</title>
-    <link>https://example.com/tags/</link>
+    <link>https://divya-1200.github.io/my-hugo-notes/tags/</link>
     <description>Recent content in Tags on Divya&#39;s Daily logs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://divya-1200.github.io/my-hugo-notes/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
